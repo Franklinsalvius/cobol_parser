@@ -16,12 +16,3 @@ This tool automates the extraction and transformation of COBOL copybook structur
 
 ---
 
-## 📁 Project Structure
-
-├── copybooks/ # Folder containing .cpy files
-├── XMLS/ # Sample XMLs for filtering (optional)
-├── cobol_programs.csv # Input CSV listing COBOL source programs and operations
-├── output_payload.csv # Output CSV with generated payloads
-├── config.py # Configuration file (DB, folders, flags)
-├── main.py # Main script (contains process_and_generate)
-└── README.md # You're here
