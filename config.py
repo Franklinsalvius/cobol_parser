@@ -1,7 +1,4 @@
 # ========== CONFIGURATION ==========
-
-
-
 input_csv_file = 'cobol_programs.csv' #replace with the input csv
 copybook_folder = 'copybooks'
 sample_xml_folder = 'XMLS'
